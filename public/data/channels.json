@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "xRKdr_DxD2hl5v9Ur72cSFE7tAY",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "ZwyXzlQbAjM5WK27J25psyS4bNY",
+      "id": "UC0v-tlzsn0QZwJnkiaUSJVQ",
+      "snippet": {
+        "title": "REACT",
+        "description": "Welcome to REACT! From our award-winning REACT series, to shows across scripted, unscripted, animation, interactive, TV series, feature films and more, we’ve been all about the reactions for over 10 years.\n\nMore about our company here: https://www.reactmedia.com/ \n\nSubscribe to our other channels for the Award-winning REACT series, scripted, unscripted, interactive, Laugh Challenges, Food Shows, BTS, and more!\n\nREACT: http://www.youtube.com/REACT\nPEOPLE VS FOOD: http://www.youtube.com/PEOPLEVSFOOD\nPVF CHEF: BULLSEYE: https://www.youtube.com/@pvfchef\nBULLSEYE: https://www.youtube.com/@REACTbullseye\n\n",
+        "customUrl": "@react",
+        "publishedAt": "2007-06-04T09:55:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/3qmO1ZC01p1b9FEeGX9kfr9ZoWIcIvGa98-0KsQBwepeysw92A1yLk2N8FA-qW06gIx4CrUpdTg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3qmO1ZC01p1b9FEeGX9kfr9ZoWIcIvGa98-0KsQBwepeysw92A1yLk2N8FA-qW06gIx4CrUpdTg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/3qmO1ZC01p1b9FEeGX9kfr9ZoWIcIvGa98-0KsQBwepeysw92A1yLk2N8FA-qW06gIx4CrUpdTg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "REACT",
+          "description": "Welcome to REACT! From our award-winning REACT series, to shows across scripted, unscripted, animation, interactive, TV series, feature films and more, we’ve been all about the reactions for over 10 years.\n\nMore about our company here: https://www.reactmedia.com/ \n\nSubscribe to our other channels for the Award-winning REACT series, scripted, unscripted, interactive, Laugh Challenges, Food Shows, BTS, and more!\n\nREACT: http://www.youtube.com/REACT\nPEOPLE VS FOOD: http://www.youtube.com/PEOPLEVSFOOD\nPVF CHEF: BULLSEYE: https://www.youtube.com/@pvfchef\nBULLSEYE: https://www.youtube.com/@REACTbullseye\n\n"
+        },
+        "country": "US"
+      }
+    }
+  ]
+}
